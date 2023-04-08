@@ -6,6 +6,6 @@ void printNames(List<String> names) {
 }
 
 void main() {
-  List<String> names = ['Alice', 'Bob', 'Charlie', 'David', 'Emily'];
+  List<String> names = ['Amit', 'Ram', 'Shyam', 'Hari', 'Sita'];
   printNames(names);
 }

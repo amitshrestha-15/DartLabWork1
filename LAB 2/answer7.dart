@@ -7,8 +7,8 @@ void main() {
   Map<String, dynamic> contacts = {
     "Amit": "1234567890",
     "Ram": "9876543210",
-    "Hari": "1230984567",
-    "Sita": "9988776655"
+    "Shyam": "1230984567",
+    "Hari": "9988776655"
   };
 
   List<String> keysWithLength4 = findKeysWithLength4(contacts);
